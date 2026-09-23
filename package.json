@@ -1,0 +1,18 @@
+{
+  "name": "user-fetch-filter-app",
+  "version": "1.0.0",
+  "description": "Node.js script that fetches users from JSONPlaceholder, filters by company catchphrase, and formats output using ES6 Object Destructuring.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "es6",
+    "jsonplaceholder",
+    "fetch",
+    "destructuring"
+  ],
+  "license": "MIT"
+}
